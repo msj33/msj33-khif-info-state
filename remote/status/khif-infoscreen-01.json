@@ -1,9 +1,9 @@
 {
   "deviceId": "khif-infoscreen-01",
   "status": "online",
-  "lastSeen": "2026-07-03T15:13:49Z",
+  "lastSeen": "2026-07-03T15:14:23Z",
   "hostname": "DietPi",
-  "uptimeSeconds": 8970,
+  "uptimeSeconds": 9004,
   "temperatureC": 54.0,
   "browser": "running",
   "currentUrl": "https://msj33.github.io/khif-info/",
