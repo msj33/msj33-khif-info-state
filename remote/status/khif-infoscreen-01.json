@@ -1,14 +1,14 @@
 {
   "deviceId": "khif-infoscreen-01",
   "status": "online",
-  "lastSeen": "2026-07-03T12:43:33Z",
+  "lastSeen": "2026-07-03T12:44:07Z",
   "hostname": "DietPi",
-  "uptimeSeconds": 6288,
+  "uptimeSeconds": 6323,
   "temperatureC": 52.9,
   "browser": "running",
   "currentUrl": "https://msj33.github.io/khif-info/",
   "lastCommandId": "2026-07-03T10:58:24.197Z-a94368",
-  "lastCommand": "",
-  "lastCommandResult": "",
+  "lastCommand": "reboot-pi",
+  "lastCommandResult": "ok: rebooting",
   "lastError": ""
 }
