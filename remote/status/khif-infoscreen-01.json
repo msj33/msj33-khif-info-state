@@ -1,14 +1,14 @@
 {
   "deviceId": "khif-infoscreen-01",
   "status": "online",
-  "lastSeen": "2026-07-03T10:39:32Z",
+  "lastSeen": "2026-07-03T10:44:25Z",
   "hostname": "DietPi",
-  "uptimeSeconds": 126646,
-  "temperatureC": 56.2,
+  "uptimeSeconds": 280,
+  "temperatureC": 57.3,
   "browser": "running",
   "currentUrl": "https://msj33.github.io/khif-info/",
-  "lastCommandId": "",
-  "lastCommand": "reboot-pi",
-  "lastCommandResult": "ok: rebooting",
+  "lastCommandId": "2026-07-03T10:41:27.894Z-f4f6ea",
+  "lastCommand": "reload-page",
+  "lastCommandResult": "ok: chromium process signalled",
   "lastError": ""
 }
