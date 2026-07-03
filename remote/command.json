@@ -1,8 +1,8 @@
 {
-  "id": "2026-07-03T10:54:29.767Z-b5407d",
+  "id": "2026-07-03T10:58:24.197Z-a94368",
   "deviceId": "khif-infoscreen-01",
-  "command": "restart-browser",
-  "createdAt": "2026-07-03T10:54:29.767Z",
-  "expiresAt": "2026-07-03T11:04:29.767Z",
+  "command": "reboot-pi",
+  "createdAt": "2026-07-03T10:58:24.197Z",
+  "expiresAt": "2026-07-03T11:08:24.197Z",
   "createdBy": "superadmin"
 }
