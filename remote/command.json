@@ -1,12 +1,8 @@
 {
-  "id": "2026-07-13T11:53:31.576Z-241d5d",
+  "id": "2026-07-13T12:06:03.435Z-c0cc53",
   "deviceId": "khif-infoscreen-01",
   "command": "restart-browser",
-  "createdAt": "2026-07-13T11:53:31.576Z",
-  "expiresAt": "2026-07-13T12:03:31.576Z",
-  "createdBy": "superadmin",
-  "status": "failed",
-  "result": "2026-07-13T11:53:37Z execute_command: restart-browser\nerror: browser restart failed",
-  "completedAt": "2026-07-13T11:53:39Z",
-  "handledBy": "khif-infoscreen-01"
+  "createdAt": "2026-07-13T12:06:03.435Z",
+  "expiresAt": "2026-07-13T12:16:03.435Z",
+  "createdBy": "superadmin"
 }
