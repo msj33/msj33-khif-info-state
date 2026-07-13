@@ -1,12 +1,8 @@
 {
-  "id": "2026-07-13T11:02:22.984Z-64135c",
+  "id": "2026-07-13T11:03:19.306Z-e0f4d1",
   "deviceId": "khif-infoscreen-01",
-  "command": "reload-page",
-  "createdAt": "2026-07-13T11:02:22.984Z",
-  "expiresAt": "2026-07-13T11:12:22.984Z",
-  "createdBy": "superadmin",
-  "status": "completed",
-  "result": "2026-07-13T11:02:28Z execute_command: reload-page\nok: chromium process signalled",
-  "completedAt": "2026-07-13T11:02:28Z",
-  "handledBy": "khif-infoscreen-01"
+  "command": "restart-browser",
+  "createdAt": "2026-07-13T11:03:19.306Z",
+  "expiresAt": "2026-07-13T11:13:19.306Z",
+  "createdBy": "superadmin"
 }
