@@ -4,5 +4,9 @@
   "command": "restart-browser",
   "createdAt": "2026-07-13T13:05:01.178Z",
   "expiresAt": "2026-07-13T13:15:01.178Z",
-  "createdBy": "superadmin"
+  "createdBy": "superadmin",
+  "status": "completed",
+  "result": "2026-07-13T13:05:08Z execute_command: restart-browser\nok: browser already running; no destructive restart applied",
+  "completedAt": "2026-07-13T13:05:08Z",
+  "handledBy": "khif-infoscreen-01"
 }
