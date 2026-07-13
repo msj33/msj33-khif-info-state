@@ -1,12 +1,8 @@
 {
-  "id": "2026-07-13T12:38:34.827Z-ed2b8a",
+  "id": "2026-07-13T12:39:48.091Z-a7e3d8",
   "deviceId": "khif-infoscreen-01",
-  "command": "screen-on",
-  "createdAt": "2026-07-13T12:38:34.827Z",
-  "expiresAt": "2026-07-13T12:48:34.827Z",
-  "createdBy": "superadmin",
-  "status": "completed",
-  "result": "2026-07-13T12:38:41Z execute_command: screen-on\n2026-07-13T12:38:41Z Screen on succeeded\nok: screen on",
-  "completedAt": "2026-07-13T12:38:41Z",
-  "handledBy": "khif-infoscreen-01"
+  "command": "restart-browser",
+  "createdAt": "2026-07-13T12:39:48.091Z",
+  "expiresAt": "2026-07-13T12:49:48.091Z",
+  "createdBy": "superadmin"
 }
