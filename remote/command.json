@@ -1,12 +1,8 @@
 {
-  "id": "2026-07-13T12:55:53.680Z-68e273",
+  "id": "2026-07-13T12:57:50.221Z-6af590",
   "deviceId": "khif-infoscreen-01",
   "command": "restart-browser",
-  "createdAt": "2026-07-13T12:55:53.680Z",
-  "expiresAt": "2026-07-13T13:05:53.680Z",
-  "createdBy": "superadmin",
-  "status": "completed",
-  "result": "2026-07-13T12:55:55Z execute_command: restart-browser\nok: restarted browser via DietPi autostart",
-  "completedAt": "2026-07-13T12:56:00Z",
-  "handledBy": "khif-infoscreen-01"
+  "createdAt": "2026-07-13T12:57:50.221Z",
+  "expiresAt": "2026-07-13T13:07:50.221Z",
+  "createdBy": "superadmin"
 }
