@@ -4,5 +4,9 @@
   "command": "reload-page",
   "createdAt": "2026-07-13T13:11:54.583Z",
   "expiresAt": "2026-07-13T13:21:54.583Z",
-  "createdBy": "superadmin"
+  "createdBy": "superadmin",
+  "status": "failed",
+  "result": "2026-07-13T13:12:00Z execute_command: reload-page\nerror: browser did not react to reload request",
+  "completedAt": "2026-07-13T13:12:00Z",
+  "handledBy": "khif-infoscreen-01"
 }
