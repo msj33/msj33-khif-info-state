@@ -4,5 +4,9 @@
   "command": "restart-browser",
   "createdAt": "2026-07-13T12:39:48.091Z",
   "expiresAt": "2026-07-13T12:49:48.091Z",
-  "createdBy": "superadmin"
+  "createdBy": "superadmin",
+  "status": "completed",
+  "result": "2026-07-13T12:39:50Z execute_command: restart-browser\nok: restarted browser via DietPi autostart",
+  "completedAt": "2026-07-13T12:39:55Z",
+  "handledBy": "khif-infoscreen-01"
 }
