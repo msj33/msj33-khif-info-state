@@ -3,7 +3,7 @@
   "days": {
     "monday": {
       "enabled": true,
-      "startTime": "10:00",
+      "startTime": "12:00",
       "endTime": "11:50"
     },
     "tuesday": {
@@ -37,6 +37,6 @@
       "endTime": "21:00"
     }
   },
-  "updatedAt": "2026-07-13T09:47:24.548Z",
+  "updatedAt": "2026-07-13T10:01:20.056Z",
   "updatedBy": "khif"
 }
