@@ -1,8 +1,8 @@
 {
-  "id": "2026-07-13T03:49:14.152Z-dbc3c5",
+  "id": "2026-07-13T03:54:29.248Z-3871da",
   "deviceId": "khif-infoscreen-01",
-  "command": "screen-on",
-  "createdAt": "2026-07-13T03:49:14.152Z",
-  "expiresAt": "2026-07-13T03:59:14.152Z",
+  "command": "screen-off",
+  "createdAt": "2026-07-13T03:54:29.248Z",
+  "expiresAt": "2026-07-13T04:04:29.248Z",
   "createdBy": "superadmin"
 }
