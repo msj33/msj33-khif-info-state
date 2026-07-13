@@ -1,12 +1,8 @@
 {
-  "id": "2026-07-13T13:28:41.068Z-1c36e9",
+  "id": "2026-07-13T13:32:22.563Z-6a9068",
   "deviceId": "khif-infoscreen-01",
   "command": "reload-page",
-  "createdAt": "2026-07-13T13:28:41.068Z",
-  "expiresAt": "2026-07-13T13:38:41.068Z",
-  "createdBy": "superadmin",
-  "status": "failed",
-  "result": "2026-07-13T13:28:44Z execute_command: reload-page\nerror: could not refresh browser",
-  "completedAt": "2026-07-13T13:28:44Z",
-  "handledBy": "khif-infoscreen-01"
+  "createdAt": "2026-07-13T13:32:22.563Z",
+  "expiresAt": "2026-07-13T13:42:22.563Z",
+  "createdBy": "superadmin"
 }
