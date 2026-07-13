@@ -4,5 +4,9 @@
   "command": "reload-page",
   "createdAt": "2026-07-13T13:35:44.007Z",
   "expiresAt": "2026-07-13T13:45:44.007Z",
-  "createdBy": "superadmin"
+  "createdBy": "superadmin",
+  "status": "completed",
+  "result": "2026-07-13T13:35:47Z execute_command: reload-page\nok: browser process signalled",
+  "completedAt": "2026-07-13T13:35:49Z",
+  "handledBy": "khif-infoscreen-01"
 }
